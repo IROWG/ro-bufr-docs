@@ -4,7 +4,7 @@ This folder contains a collection of working documents originally downloaded fro
 
 ## Purpose
 
-These documents support the development, evolution, and implementation of a new buffer format for radio occultation (RO) data.
+These documents support the design and evolution of a new BUFR (Binary Universal Form for the Representation of meteorological data) format for radio occultation (RO) data
 
 ## Context
 
